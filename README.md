@@ -1,1 +1,1 @@
-# parking-detcttion
+# parking-detection using Python
